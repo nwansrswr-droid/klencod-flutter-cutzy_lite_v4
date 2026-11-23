@@ -1,0 +1,14 @@
+name: cutzy_lite
+description: Cutzy Lite - a simple dress-up game.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
